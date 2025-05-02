@@ -1,0 +1,6 @@
+*.csv
+tabular_data_*
+t*_data
+*.py
+Readme.txt
+copy_csv.ipynb
