@@ -5,3 +5,4 @@ t*_data
 Readme.txt
 copy_csv.ipynb
 */*.csv
+img-*
